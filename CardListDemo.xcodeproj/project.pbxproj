@@ -15,7 +15,6 @@
 		00301822238EC1990076F430 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00301820238EC1990076F430 /* LaunchScreen.storyboard */; };
 		0030182A238EC1B10076F430 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00301829238EC1B10076F430 /* CardView.swift */; };
 		0030182C238F5C660076F430 /* CardData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0030182B238F5C660076F430 /* CardData.swift */; };
-		00301870238F8F140076F430 /* ProgressBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0030186F238F8F140076F430 /* ProgressBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,7 +28,6 @@
 		00301823238EC1990076F430 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00301829238EC1B10076F430 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		0030182B238F5C660076F430 /* CardData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardData.swift; sourceTree = "<group>"; };
-		0030186F238F8F140076F430 /* ProgressBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,7 +65,6 @@
 				00301819238EC1980076F430 /* ContentView.swift */,
 				0030182B238F5C660076F430 /* CardData.swift */,
 				00301829238EC1B10076F430 /* CardView.swift */,
-				0030186F238F8F140076F430 /* ProgressBar.swift */,
 				0030181B238EC1990076F430 /* Assets.xcassets */,
 				00301820238EC1990076F430 /* LaunchScreen.storyboard */,
 				00301823238EC1990076F430 /* Info.plist */,
@@ -159,7 +156,6 @@
 				00301816238EC1980076F430 /* AppDelegate.swift in Sources */,
 				00301818238EC1980076F430 /* SceneDelegate.swift in Sources */,
 				0030182A238EC1B10076F430 /* CardView.swift in Sources */,
-				00301870238F8F140076F430 /* ProgressBar.swift in Sources */,
 				0030181A238EC1980076F430 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
