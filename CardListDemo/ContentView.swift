@@ -26,9 +26,7 @@ struct ContentView: View {
     }()
     
     var currentDate = Date()
-    
-    @State var progress: CGFloat = 0.0
-    
+        
     var body: some View {
         VStack(alignment: .leading) {
             ScrollView(.vertical, showsIndicators: true){
